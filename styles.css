@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 48px;
+}
+
+h2{
+    font-size: 32px;
+}
+
+h3{
+    font-size: 28px;
+}
+
+header{
+    background-color: lightblue;
+    text-align: center;
+    padding: 50px;
+}
+
+.main-content{
+    width: 400px;
+    /* border: solid black; */
+    margin: 100px auto;
+    text-align: center;
+    color: dimgray;
+}
+
+footer{
+    background-color: lightblue;
+    padding: 5px;
+}
+
+.column{
+    display: flex;
+    /* border: solid black; */
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.columns{
+    /* border: solid red; */
+    margin: 10px;
+}
